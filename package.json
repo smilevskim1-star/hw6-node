@@ -1,0 +1,8 @@
+{
+  "name": "hw6-node",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.js dist/",
+    "test": "node index.js"
+  }
+}
